@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actionScriptProperties analytics="false" mainApplicationPath="FariyGUI2Lua2.as" projectUUID="1a0a8e8b-4840-4e12-9ac3-101c5da85941" version="10">
+  <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="true" copyDependentFiles="false" fteInMXComponents="false" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="false" htmlHistoryManagement="false" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="true" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
+    <compilerSourcePath/>
+    <libraryPath defaultLinkType="0">
+      <libraryPathEntry kind="4" path="">
+        <modifiedEntries>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/authoringsupport.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/flash-integration.swc" useDefaultLinkType="false"/>
+        </modifiedEntries>
+        <excludedEntries>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/flex.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/core.swc" useDefaultLinkType="false"/>
+        </excludedEntries>
+      </libraryPathEntry>
+      <libraryPathEntry kind="1" linkType="2" path="libs"/>
+    </libraryPath>
+    <sourceAttachmentPath/>
+  </compiler>
+  <applications>
+    <application path="FariyGUI2Lua2.as"/>
+  </applications>
+  <modules/>
+  <buildCSSFiles/>
+  <flashCatalyst validateFlashCatalystCompatibility="false"/>
+</actionScriptProperties>
+

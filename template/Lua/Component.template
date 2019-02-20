@@ -1,0 +1,17 @@
+local {className}Model = class("{className}")
+{className}Model.PackageID = "{uiPackageID}";
+{className}Model.PackageName = "{uiPackageName}";
+{className}Model.UrlID = "{uiPathID}";
+{className}Model.UrlName = "{uiPathName}";
+
+local function Load(self,win)
+{content}
+end
+
+function {className}Model:ctor(win)
+	--@RefType [luaIde#CS.FairyGUI.GComponent]
+	self.component = win.cswindow.ui
+	Load(self,win)
+end
+
+return {className}Model
